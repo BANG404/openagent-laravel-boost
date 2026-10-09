@@ -1,0 +1,10 @@
+{
+  "repository": "https://github.com/anthropics/claude-plugins-official",
+  "revision": "ac996c0dde7fb2a9f805cd5277ffc95ecd44a321",
+  "path": "external_plugins/laravel-boost",
+  "source_sha256": "2644f56ef0a202ff4648b633201411ea96b21fee796a8f3662774582b48db928",
+  "artifacts": {
+    "command.mjs": "9edf98fbded8b7f161b5c263f1c325ffbc684e3a53364ec3e1c577431419920b",
+    "status.mjs": "db08b2ec3d5c5de96b264cb54b90fa34b76a9156d0219d084317a8769b76f118"
+  }
+}
