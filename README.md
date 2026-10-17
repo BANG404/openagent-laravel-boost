@@ -1,6 +1,6 @@
-# laravel-boost for OpenAgent
+# Laravel Development
 
-Laravel application tools through Laravel Boost.
+Inspect and debug the active Laravel app with Laravel Boost; requires PHP and Laravel Boost in the project.
 
 Install the release archive through OpenAgent Integrations → Plugins. This is an independent adaptation.
 
@@ -18,6 +18,6 @@ Bundled tests cover immutable artifacts, config conversion and service configura
 
 ## 中文
 
-通过 Laravel Boost 使用 Laravel 应用开发工具。 安装发布包后运行 /laravel-boost:setup 查看配置要求。凭据和状态保存在当前 OpenAgent 数据目录的 plugin-data/laravel-boost/ 下，修改后刷新插件。
+使用 Laravel Boost 查看和调试当前 Laravel 应用，需要项目已安装 PHP 和 Laravel Boost。 安装发布包后运行 /laravel-boost:setup 查看配置要求。凭据和状态保存在当前 OpenAgent 数据目录的 plugin-data/laravel-boost/ 下，修改后刷新插件。
 
 Upstream source and exact revision are recorded in provenance.json. Bundled source remains available for inspection.

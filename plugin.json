@@ -1,8 +1,8 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "laravel-boost",
-  "version": "0.1.0",
-  "description": "Laravel application tools through Laravel Boost.",
+  "version": "0.1.1",
+  "description": "Inspect and debug the active Laravel app with Laravel Boost; requires PHP and Laravel Boost in the project.",
   "license": "Apache-2.0",
   "homepage": "https://github.com/anthropics/claude-plugins-official/tree/ac996c0dde7fb2a9f805cd5277ffc95ecd44a321/external_plugins/laravel-boost",
   "repository": "https://github.com/BANG404/openagent-laravel-boost",
@@ -43,14 +43,14 @@
         "default_locale": "en",
         "translations": {
           "en": {
-            "display_name": "laravel-boost",
-            "description": "Laravel application tools through Laravel Boost.",
+            "display_name": "Laravel Development",
+            "description": "Inspect and debug the active Laravel app with Laravel Boost; requires PHP and Laravel Boost in the project.",
             "commands.setup.label": "Setup",
             "commands.setup.description": "Review connection prerequisites"
           },
           "zh": {
-            "display_name": "laravel-boost",
-            "description": "通过 Laravel Boost 使用 Laravel 应用开发工具。",
+            "display_name": "Laravel 开发助手",
+            "description": "使用 Laravel Boost 查看和调试当前 Laravel 应用，需要项目已安装 PHP 和 Laravel Boost。",
             "commands.setup.label": "配置",
             "commands.setup.description": "查看连接要求"
           }
